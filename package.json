@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mocha": "^11.7.1"
+  },
+  "name": "pesquisarpessoas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
