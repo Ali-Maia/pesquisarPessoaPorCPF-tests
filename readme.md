@@ -10,9 +10,8 @@ Este repositório contém os **testes unitários** para a função `pesquisarPes
 
 * **JavaScript**: Linguagem de programação principal.
 * **Mocha**: Framework de testes JavaScript utilizado para rodar os testes.
-* **Chai**: Biblioteca de asserção para Mocha, facilitando a escrita de verificações nos testes.
 
-## 🚀 Como Rodar os Testes
+## ⚙ Como Rodar os Testes
 
 Para executar os testes unitários deste projeto, siga os passos abaixo:
 
@@ -43,7 +42,7 @@ Após a instalação, você pode rodar todos os testes com o seguinte comando:
 npm test
 ```
 
-## 🧪 Estrutura dos Testes
+## 📌 Estrutura dos Testes
 
 Os testes estão organizados de forma a cobrir diferentes aspectos da função `pesquisarPessoaPorCPF`:
 
@@ -51,9 +50,9 @@ Os testes estão organizados de forma a cobrir diferentes aspectos da função `
 * **Testes de Falha**: Verifica se a função se comporta corretamente quando o CPF não é encontrado.
 * **Testes de Validação**: Verifica se a função lida apropriadamente com CPFs inválidos ou formatos incorretos.
 
-## Contribuição
+## ✨ Contribuição
 
-Sinta-se à vontade para abrir issues ou enviar pull requests se encontrar algum problema ou tiver sugestões de melhoria para os testes!
+Sinta-se à vontade para abrir issues e pull requests para sugerir melhorias, novos testes ou correções!
 
 
 
