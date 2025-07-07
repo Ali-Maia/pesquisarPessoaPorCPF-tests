@@ -23,7 +23,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/download/) instalado em s
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Ali-Maia/pesquisarPessoaPorCPF-tests.git](https://github.com/Ali-Maia/pesquisarPessoaPorCPF-tests.git)
+    git clone https://github.com/Ali-Maia/pesquisarPessoaPorCPF-tests.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
